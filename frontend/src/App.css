@@ -1,0 +1,10 @@
+body {
+
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  min-height: 100vh; /* Ensure the body takes up at least the full viewport height */
+  overflow: hidden; /* Prevent scrolling */
+  width: 100%; /* Ensures the body occupies the full width of the screen */
+}
